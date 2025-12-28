@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スノービート",
+  "base_artist": "佐奈宏紀",
+  "createdAt": "2025-12-28T10:37:48.915992Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スノービート",
+      "artist": "佐奈宏紀",
+      "has_synced": false,
+      "path": "select/pl_01_スノービート_佐奈宏紀.txt"
+    }
+  ]
+}
